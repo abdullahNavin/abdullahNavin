@@ -12,7 +12,7 @@
 ### `// Abdullah Al Fayed Navin`
 #### Fullstack Developer · Chittagong, Bangladesh 🇧🇩
 
-[![Open to Work](https://img.shields.io/badge/⚡_Open_to_Freelance-00d26a?style=flat-square&labelColor=0d1117)](mailto:navinfayed26@gmail.com)
+[![Open to Work](https://img.shields.io/badge/⚡%20Open%20to%20Work-00d26a?style=flat-square&labelColor=0d1117)](mailto:navinfayed26@gmail.com)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-navin--ten.vercel.app-58a6ff?style=flat-square&labelColor=0d1117)](https://navin-ten.vercel.app/)
 [![Location](https://img.shields.io/badge/📍_Chittagong,_BD-0d1117?style=flat-square&labelColor=0d1117&color=30363d)](https://maps.google.com/?q=Chittagong,Bangladesh)
 
